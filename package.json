@@ -1,0 +1,22 @@
+{
+  "name": "hider-directive",
+  "version": "1.0.0",
+  "description": "<img src=\"https://devmounta.in/img/logowhiteblue.png\" width=\"250\" align=\"right\">",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhayme/lesson-hider-directive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhayme/lesson-hider-directive/issues"
+  },
+  "homepage": "https://github.com/Rhayme/lesson-hider-directive#readme",
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}

@@ -1,0 +1,11 @@
+<section>
+    <h1>hello world</h1>
+    <h2>how are you</h2>
+    <div ng-repeat="lesson in lessons">
+        {{lesson}}
+    </div>
+    <li>{{lesson}}</li>
+    <input type="text" ng-model="lesson">
+    <button type="submit" ng-click="dayAlert({lesson: lesson, day: lessonDay})">Say hi</button>
+
+</section>
